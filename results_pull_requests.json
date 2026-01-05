@@ -850,5 +850,77 @@
     "by_members": 129,
     "by_non_members": 58,
     "total": 187
+  },
+  {
+    "month": "2025-01",
+    "by_members": 102,
+    "by_non_members": 43,
+    "total": 145
+  },
+  {
+    "month": "2025-02",
+    "by_members": 81,
+    "by_non_members": 38,
+    "total": 119
+  },
+  {
+    "month": "2025-03",
+    "by_members": 87,
+    "by_non_members": 35,
+    "total": 122
+  },
+  {
+    "month": "2025-04",
+    "by_members": 92,
+    "by_non_members": 48,
+    "total": 140
+  },
+  {
+    "month": "2025-05",
+    "by_members": 131,
+    "by_non_members": 59,
+    "total": 190
+  },
+  {
+    "month": "2025-06",
+    "by_members": 79,
+    "by_non_members": 37,
+    "total": 116
+  },
+  {
+    "month": "2025-07",
+    "by_members": 76,
+    "by_non_members": 40,
+    "total": 116
+  },
+  {
+    "month": "2025-08",
+    "by_members": 68,
+    "by_non_members": 71,
+    "total": 139
+  },
+  {
+    "month": "2025-09",
+    "by_members": 76,
+    "by_non_members": 47,
+    "total": 123
+  },
+  {
+    "month": "2025-10",
+    "by_members": 122,
+    "by_non_members": 101,
+    "total": 223
+  },
+  {
+    "month": "2025-11",
+    "by_members": 106,
+    "by_non_members": 98,
+    "total": 204
+  },
+  {
+    "month": "2025-12",
+    "by_members": 79,
+    "by_non_members": 68,
+    "total": 147
   }
 ]
